@@ -1,0 +1,10 @@
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/CMakeFiles/INSTALL.dir
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/runner/CMakeFiles/qr_code_component.dir
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/Patrizio/Sviluppo/_FLUTTER/_FRONTEND_MENTOR/qr_code_component/build/windows/runner/CMakeFiles/ALL_BUILD.dir

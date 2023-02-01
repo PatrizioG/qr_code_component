@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Patrizio\Sviluppo\_FLUTTER\_FRONTEND_MENTOR\qr_code_component\build\windows\CMakeFiles\4aa13e52d7212713fb3c57f32e865aae\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5C230552-9710-3746-90F8-4769B7169FE4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
